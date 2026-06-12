@@ -155,3 +155,5 @@ footer {
 
     color: white;
 }
+document.getElementById("year").textContent =
+    new Date().getFullYear();
